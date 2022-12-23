@@ -13,14 +13,13 @@ Homebrewd is a self hosted, federated, all in one solution for the needs of your
 - 📺 Stream at the highest quality and lowest latency to your friends.
 
 
-# Technologies
+# Technologies Used
 - Go
 - Typescript
-- RabbitMQ message brokering to tie in microservices made in go
+- Rust
+- RabbitMQ
 - PostgreSQL
-- Redis
-- Front end client built using T3 Stack (Typescript, TRPC, Prisma) popularized by tech youtuber TheoJoe
-- NextAuth
 - Docker
-- NextJS (React Typescript Framework)
+- Tauri
+- SvelteKit
 - ActivityPub

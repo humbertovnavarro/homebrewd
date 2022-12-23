@@ -15,6 +15,8 @@ Homebrewd is a self hosted, federated, all in one solution for the needs of your
 
 
 # Technologies
+- Go
+- Typescript
 - RabbitMQ message brokering to tie in microservices made in go
 - PostgreSQL
 - Redis
